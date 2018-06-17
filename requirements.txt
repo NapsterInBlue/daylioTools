@@ -1,0 +1,6 @@
+click==6.7
+dateutils==0.6.6
+-e git+git@github.com:NapsterInBlue/daylioTools.git@48c87167302bd6ab5c32e462246c7d25a791bc35#egg=dayliotools
+python-dateutil==2.7.3
+pytz==2018.4
+six==1.11.0
